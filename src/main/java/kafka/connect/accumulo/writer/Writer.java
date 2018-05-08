@@ -1,4 +1,4 @@
-package kafka.connect.sink.accumulo;
+package kafka.connect.accumulo.writer;
 
 import java.util.Collection;
 
